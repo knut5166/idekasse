@@ -1,0 +1,2 @@
+# idekasse
+Examples and notes
